@@ -1,0 +1,10 @@
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\bin\Debug\AdvertiserCompanies.exe.config
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\bin\Debug\AdvertiserCompanies.exe
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\bin\Debug\AdvertiserCompanies.pdb
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\bin\Debug\FuzzySharp.dll
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\obj\Debug\AdvertiserCompanies.csproj.AssemblyReference.cache
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\obj\Debug\AdvertiserCompanies.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\obj\Debug\AdvertiserCompanies.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\obj\Debug\AdvertiserCompanies.csproj.CopyComplete
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\obj\Debug\AdvertiserCompanies.exe
+C:\Users\Aaron Drury\OneDrive\Desktop\AssessmentProject\AdvertiserCompanies\obj\Debug\AdvertiserCompanies.pdb
